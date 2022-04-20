@@ -1,0 +1,2 @@
+const iWantThisJob = "Thank you for considering me for this role, I would love to work with your engineering team to expand my knowledge.";
+console.log(iWantThisJob);
